@@ -10,25 +10,24 @@ Desarrollaremos un modelo con la mayor exactitud posible con al menos un umbral 
 El objetivo es obtener un modelo capaz de predecir el tipo de plan Ultra o Smart que necesitan los usuarios.
 
 ## Contenido
-  Introducción
-  Iniciación de datos
-    Examina datos
-    Descripción de datos
-  Machine Learning
-    Segmentación de datos
-    Entrenamiento
-      Algoritmo DecisionTreeClassifier
-      Algoritmo RandomForestClassifier
-      Algoritmo LogisticRegression
-    Calidad del modelo
-    Prueba de cordura
-  Conclusión general
-
+* Introducción
+* Iniciación de datos
+    *  Examina datos
+    *  Descripción de datos
+* Machine Learning
+    *  Segmentación de datos
+    *  Entrenamiento
+        * Algoritmo DecisionTreeClassifier
+        * Algoritmo RandomForestClassifier
+        * Algoritmo LogisticRegression
+    *  Calidad del modelo
+    *  Prueba de cordura
+* Conclusión general
 
 ## Librerías usadas
-  pandas, numpy
-  sklearn.model_selection import train_test_split
-  sklearn.tree import DecisionTreeClassifier
-  sklearn.ensemble import RandomForestClassifier
-  sklearn.linear_model import LogisticRegression
-  sklearn.metrics import accuracy_score
+  *  pandas, numpy,
+  *  sklearn.model_selection import train_test_split,
+  *  sklearn.tree import DecisionTreeClassifier,
+  *  sklearn.ensemble import RandomForestClassifier,
+  *  sklearn.linear_model import LogisticRegression,
+  *  sklearn.metrics import accuracy_score,
